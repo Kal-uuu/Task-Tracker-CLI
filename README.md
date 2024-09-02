@@ -14,3 +14,5 @@ Here are some commands to help you run it easily:
 Note:
 "python main.py" is a command that is common throughout and 
 must be typed first before adding these to complete your command
+
+Project URL: https://github.com/Kal-uuu/my_projects/tree/main
